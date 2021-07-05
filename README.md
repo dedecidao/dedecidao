@@ -24,17 +24,15 @@
 
 ### Language and tools 🔑
 
-- Languages
 
-
-<p float="center">
+<div align="center">
 - Languages
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/javascript.png" />
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/css.png" />
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/java.png" />
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/php.png" />
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/html5.png" />
-</p>
+</div>
 
 - Tecnologies and frameworks
 
