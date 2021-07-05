@@ -27,13 +27,12 @@
 - Languages
 
 
-<p float="left">
+<p float="center">
+- Languages
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/javascript.png" />
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/css.png" />
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/java.png" />
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/php.png" />
-  <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/python.png" />
-  <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/c.png" />
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/html5.png" />
 </p>
 
