@@ -1,4 +1,4 @@
-## Hi 👋, I'm Andre Luis Araujo, a Developer 🚀 from Brazil!
+## Hi 👋, I'm Andre Luis Araujo!
 
 ---
 
@@ -26,7 +26,7 @@
 
 
 <div align="center">
-- Languages
+
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/javascript.png" />
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/css.png" />
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/java.png" />
@@ -34,14 +34,14 @@
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/html5.png" />
 </div>
 
-- Tecnologies and frameworks
+### Tecnologies and frameworks 💻
 
-<p float="left">
+<div align="center">
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/laravel.png" />
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/react.png" />
   <img width="42px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/dedecidao/dedecidao/master/resources/images/git.png" />
 
-</p>
+</div>
 
 <div align="center">
 
