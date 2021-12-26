@@ -14,7 +14,9 @@
 
 </div>
 
-### "Master programmers think of systems as stories to be told rather than programs to be written."  Robert C. Martin, CLEAN CODE
+### "Master programmers think of systems as stories to be told rather than programs to be written."  
+
+Robert C. Martin, CLEAN CODE
 
 - 🌱 I’m currently learning **Responsive Layouts and React**
 - 📫 How to reach me: You can click in any social media above.
