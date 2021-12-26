@@ -6,12 +6,11 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/sancho41)](https://github.com/dedecidao)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-sancho-99888a180/)](https://www.linkedin.com/in/andr%C3%A9-luis-2b31ba170/)
-
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561983316388&text=Olá!)](https://api.whatsapp.com/send?phone=5561982669902&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/G_Sancho)](https://t.me/dedecidao)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.sancho13@gmail.com)](mailto:dedefest@gmail.com)
 
-[![Resume Badge](https://img.shields.io/badge/-Resume-000?style=flat-square&logo=read-the-docs&logoColor=white&link=https://sancho41.github.io/curriculum.html)](#)
+
 
 </div>
 
