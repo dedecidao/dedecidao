@@ -18,7 +18,6 @@
 
 Robert C. Martin, CLEAN CODE
 
-- 🌱 I’m currently learning **Responsive Layouts and React**
 - 📫 How to reach me: You can click in any social media above.
 
 ---
